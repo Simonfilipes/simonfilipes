@@ -11,7 +11,7 @@
 << <a href="https://simonfilipes.com">Portfolio</a> || <a href="https://www.linkedin.com/in/simon-filipe/">Linkedin</a> >><br>
 </div>
 
-<p align="center">
+<br><p align="center">
 My Skills:<br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,py,java,html,javascript,css,react,laravel,mysql" />
