@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🍎, I'm Simon</h1>
-<h3 align="center">A Full-Stack Developer | Dev Junior</h3>
+<h3 align="center">A Full Stack Developer | Dev Junior</h3>
 
 <div align="center">
   <a href="https://github.com/andradavic">
