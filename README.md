@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Simon</h1>
+<h1 align="center">Hello 🍎, I'm Simon</h1>
 <h3 align="center">A Full-Stack Developer | Dev Junior</h3>
 
 <div align="center">
