@@ -3,15 +3,6 @@
 
 <div align="center">
   <a href="https://github.com/Simonfilipes">
-  <a href="https://github.com/Simonfilipes">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Simonfilipes&theme=radical&hide_border=true" alt="Simon Filipe's GitHub Streak Stats"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <a href="https://github.com/Simonfilipes">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Simonfilipes&theme=github_dark" alt="GitHub Profile Details" />
   </a>
 </div>
