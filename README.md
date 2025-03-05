@@ -11,5 +11,5 @@
 ---
 
 <p align="center">
-  🚀 Let’s create something extraordinary together! Feel free to reach out anytime.
+  Let’s create something extraordinary together! Feel free to reach out anytime.
 </p>
