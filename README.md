@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Simon! 🍎</h1>
-<h3 align="center">Full Stack Developer | Code Explorer 🚀</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
