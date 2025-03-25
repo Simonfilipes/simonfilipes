@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=php,py,java,html,css,javascript,react,laravel,mysql,git,vscode" alt="Skill Icons"/>
+  <img src="https://skillicons.dev/icons?i=php,py,java,html,css,javascript,react,laravel,git,vscode" alt="Skill Icons"/>
 </div>
 
 ---
