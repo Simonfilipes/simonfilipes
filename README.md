@@ -22,9 +22,9 @@ export default SimonFilipe;
 ```
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mi66mc&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi66mc&layout=compact&langs_count=99&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonfilipes&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonfilipes&layout=compact&langs_count=99&theme=dark"/>
     
-  ![Snake animation](https://github.com/mi66mc/simonfilipes/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/simonfilipes/simonfilipes/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 <div align="center">
