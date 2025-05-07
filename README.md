@@ -1,6 +1,6 @@
 <hr style="border: 1px solid #ccc; margin: 10px 0px;">
 
-```
+```jsx
 import React from 'react';
 
 const SimonFilipe = () => {
