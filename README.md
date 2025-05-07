@@ -1,9 +1,30 @@
-<h1 align="center">👋 Hey there, I'm Simon!</h1>
-<h3 align="center">Full Stack Developer</h3>
+```
+import React from 'react';
 
-<h3 align="center">About Me</h3>
+const SimonFilipe = () => {
+  const userData = {
+    name: "Simon",
+    age: 19,
+    country: "Brazil",
+    level: "Junior"
+  };
 
-<div align="center">Full Stack Developer with experience in developing web applications and RESTful APIs, using modern technologies such as Laravel and React. I have had contact with PHP, Python, Java, JavaScript, HTML5, CSS3 and MySQL in personal study projects. Focused on responsive design, performance optimization and user experience. I have solid skills in problem-solving and delivering scalable solutions. Currently looking for a job opportunity, always willing to learn and improve new technologies or practical methodologies<br><br>
+  return (
+    <div>
+      <h1>Hello!</h1>
+      <p>My name is {userData.name}, I'm {userData.age} years old from {userData.country}.</p>
+      <p>As a {userData.level} developer, I'm excited to create amazing things together!</p>
+    </div>
+  );
+};
+
+export default SimonFilipe;
+```
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mi66mc&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mi66mc&layout=compact&langs_count=99&theme=dark"/>
+    
+  ![Snake animation](https://github.com/mi66mc/simonfilipes/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 <div align="center">
