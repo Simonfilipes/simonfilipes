@@ -1,5 +1,3 @@
-<hr style="border: 1px solid #ccc; margin: 10px 0px;">
-
 ```jsx
 const SimonFilipe = () => {
   const userData = {
