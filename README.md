@@ -56,7 +56,7 @@ export default SimonFilipe;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-![snake gif](https://github.com/Simonfilipes/Simonfilipes/blob/output/github-snake.svg)
+![Snake animation](https://github.com/Simonfilipes/simonfilipes/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 <hr style="border: 1px solid #ccc; margin: 10px 0px;">
