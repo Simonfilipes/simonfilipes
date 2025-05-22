@@ -55,8 +55,6 @@ export default SimonFilipe;
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
 ![Snake animation](https://github.com/Simonfilipes/simonfilipes/blob/output/github-contribution-grid-snake-dark.svg)
-</div>
 
 <hr style="border: 1px solid #ccc; margin: 10px 0px;">
