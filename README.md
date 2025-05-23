@@ -53,6 +53,8 @@ export default SimonFilipe;
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+<hr style="border: 1px solid #ccc; margin: 10px 0px;">
+
 ![Snake animation](https://github.com/Simonfilipes/simonfilipes/blob/output/github-contribution-grid-snake-dark.svg)
 
 <hr style="border: 1px solid #ccc; margin: 10px 0px;">
