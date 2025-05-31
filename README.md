@@ -1,6 +1,13 @@
-```jsx
+```tsx
+interface UserData {
+  name: string;
+  age: number;
+  country: string;
+  level: string;
+}
+
 const SimonFilipe = () => {
-  const userData = {
+  const userData: UserData = {
     name: "Simon",
     age: 19,
     country: "Brazil",
