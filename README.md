@@ -1,26 +1,19 @@
-```tsx
-interface UserData {
-  name: string;
-  age: number;
-  country: string;
-  level: string;
-}
-
+```jsx
 const SimonFilipe = () => {
-  const userData: UserData = {
-    name: "Simon",
-    age: 19,
-    country: "Brazil",
-    level: "Junior"
-  };
+  const userData = {
+    name: "Simon",
+    age: 19,
+    country: "Brazil",
+    level: "Junior"
+  };
 
-  return (
-    <div>
-      <h1>Hello!</h1>
-      <p>My name is {userData.name}, I'm {userData.age} years old from {userData.country}.</p>
-      <p>As a {userData.level} developer, I'm excited to create amazing things together!</p>
-    </div>
-  );
+  return (
+    <div>
+      <h1>Hello!</h1>
+      <p>My name is {userData.name}, I'm {userData.age} years old from {userData.country}.</p>
+      <p>As a {userData.level} developer, I'm excited to create amazing things together!</p>
+    </div>
+  );
 };
 
 export default SimonFilipe;
