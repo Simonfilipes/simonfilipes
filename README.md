@@ -21,14 +21,6 @@ export default SimonFilipe;
 
 <hr style="border: 1px solid #ccc; margin: 10px 0;">
 
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonfilipes&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonfilipes&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-</div>
-
-<hr style="border: 1px solid #ccc; margin: 10px 0;">
-
 <!-- Tech Stack -->
 <div align="center">
 
